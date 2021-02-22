@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Game project 5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Game project 5"
+	}
+}
